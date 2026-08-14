@@ -1,7 +1,9 @@
+cat > .firebaserc << 'EOF'
 {
   "projects": {
-    "default": "REPLACE_WITH_FIREBASE_PROJECT_ID"
+    "default": "anshu-capstone-boilerplate"
   },
   "targets": {},
   "etags": {}
 }
+EOF
